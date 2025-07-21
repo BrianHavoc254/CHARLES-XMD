@@ -4,7 +4,7 @@ const { Buffer } = require('buffer');
 const fs = require('fs');
 
 zokou({
-    nomCom: "topdf",
+    nomCom: "pdf",
     categorie: "Utilities",
     reaction: "📄",
     description: "Convert text or replied message to PDF document",
